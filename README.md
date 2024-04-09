@@ -1,19 +1,9 @@
 # 🧶 Green Commits
 
-[![Build Status](https://github.com/IMXNOOBX/green-commits/workflows/ci/badge.svg?branch=master)](https://github.com/IMXNOOBX/green-commits/actions)
-
 Automatically keep GitHub commit status green.
 
 > a commit a day keeps your girlfriend away. **changed to** a commit a day keeps your girlfriend from going away. 😢
 
-
-# 📣 Whats New
-
-> Added EMAIL, NAME secret, that way no one will be able to see ur email
-
-## 🌳 Simple Use
-
-**⚠️Do not fork, because the dynamics of the fork project will not make you green ⚠️**
 
 ```diff
 + Use this template or the official one
@@ -52,4 +42,3 @@ The scheduled task syntax has 5 fields separated by spaces, each field represent
 ## License && Credits
 
 - Credits: [**justjavac**](https://github.com/justjavac)
-- License: [auto-green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
