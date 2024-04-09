@@ -9,9 +9,11 @@ Automatically keep GitHub commit status green.
 + Use this template or the official one
 1. Go to .github/workflows/cy.yml in your repository
 2. Remove the # in line 7, 8
-3. Go to https://github.com/yourGithubUsername/auto-green/settings/secrets/actions 
+3. Go to https://github.com/yourGithubUsername/green-commits/settings/secrets/actions 
   3.1. Create a secret named EMAIL with your email
   3.2. Create a scret named NAME with your github username
+4. Go to https://github.com/yourGithubUsername/green-commits/settings/actions and Give `Read and write` permissions to workflow
+ 
 + Enjoy the green Contribution Activity panel in your profile :D
 ```
 
